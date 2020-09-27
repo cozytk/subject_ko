@@ -26,7 +26,7 @@
 | ft_containers    | <ul><li>- [ ] 작업중</li><li>- [X] 검토중</li><li>- [ ] 완료</li></ul> |  wpark  |
 | webserv          | <ul><li>- [ ] 작업중</li><li>- [X] 검토중</li><li>- [ ] 완료</li></ul> |  wpark  |
 | ft_irc           | <ul><li>- [ ] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |         |
-| ft_transcendence | <ul><li>- [X] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |  wpark  |
+| ft_transcendence | <ul><li>- [ ] 작업중</li><li>- [X] 검토중</li><li>- [ ] 완료</li></ul> |  wpark  |
 
 ## 번역할 과제 찜하기
 작업중/검토중/완료가 체크되지 않은 과제 중에서 본인이 하고 싶은 과제를 골라주세요.

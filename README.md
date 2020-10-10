@@ -14,8 +14,8 @@
 | minishell        | <ul><li>- [ ] 작업중</li><li>- [x] 검토중</li><li>- [ ] 완료</li></ul> |  yechoi |
 | ft_services      | <ul><li>- [ ] 작업중</li><li>- [x] 검토중</li><li>- [ ] 완료</li></ul> |  yochoi |
 | philosophers     | <ul><li>- [ ] 작업중</li><li>- [x] 검토중</li><li>- [ ] 완료</li></ul> |  gipark  |
-| cpp module 00    | <ul><li>- [ ] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |         |
-| cpp module 01    | <ul><li>- [ ] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |         |
+| cpp module 00    | <ul><li>- [x] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |  yechoi |
+| cpp module 01    | <ul><li>- [x] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |  yechoi |
 | cpp module 02    | <ul><li>- [ ] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |         |
 | cpp module 03    | <ul><li>- [ ] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |         |
 | cpp module 04    | <ul><li>- [ ] 작업중</li><li>- [ ] 검토중</li><li>- [ ] 완료</li></ul> |         |
